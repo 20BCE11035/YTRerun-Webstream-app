@@ -52,4 +52,4 @@ Copyright © 2021-24 [Anant KUMAR](https://github.com/20BCE11035).<br />
 This project is [GNU-GPL](https://www.gnu.org/licenses/gpl-3.0.html) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/20BCE11035)_
