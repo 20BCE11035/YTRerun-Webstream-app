@@ -48,7 +48,7 @@ Give a ⭐️ if this project is helpfull! It's also important that this website
 
 ## 📝 License
 
-Copyright © 2021 [Anant KUMAR](https://github.com/20BCE11035).<br />
+Copyright © 2021-24 [Anant KUMAR](https://github.com/20BCE11035).<br />
 This project is [GNU-GPL](https://www.gnu.org/licenses/gpl-3.0.html) licensed.
 
 ***
