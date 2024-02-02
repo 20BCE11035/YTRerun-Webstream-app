@@ -32,15 +32,15 @@ Go to a youtube video and change youtube.com to ytrerun.web.app in the address b
 
 ## Author
 
-👤 **Robin Paret**
+👤 **Anant Kumar**
 
-* Email: [robinpdev@gmail.com](mailto:robinpdevgmail.com)
+* Email: [anant79k@gmail.com](mailto:anantko4051999@gmail.com)
 * Website: https://ytrerun.webflow.io
-* Github: [@robinpdev](https://github.com/robinpdev)
+* Github: [@anantkumar](https://github.com/20BCE11035)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/robinpdev/ytrerun/issues). You can also take a look at the [contributing guide](https://github.com/robinpdev/ytrerun/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/20BCE11035/YTRerun-Webstream-app). You can also take a look at the [contributing guide](https://github.com/robinpdev/ytrerun/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
