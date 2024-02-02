@@ -5,10 +5,10 @@ A WebApp that turns any youtube video into a tv-channel like livestream with cha
 <h1 align="center">Welcome to YTRerun Webstream 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/robinpdev/ytrerun#readme" target="_blank">
+  <a href="https://github.com/20BCE11035/YTRerun-Webstream-app#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/robinpdev/ytrerun/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/20BCE11035/YTRerun-Webstream-app/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
@@ -40,7 +40,7 @@ Go to a youtube video and change youtube.com to ytrerun.web.app in the address b
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/20BCE11035/YTRerun-Webstream-app). You can also take a look at the [contributing guide](https://github.com/robinpdev/ytrerun/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/20BCE11035/YTRerun-Webstream-app). You can also take a look at the [contributing guide](https://github.com/20BCE11035/YTRerun-Webstream-app/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -48,7 +48,7 @@ Give a ⭐️ if this project is helpfull! It's also important that this website
 
 ## 📝 License
 
-Copyright © 2021 [Robin Paret](https://github.com/robinpdev).<br />
+Copyright © 2021 [Anant KUMAR](https://github.com/20BCE11035).<br />
 This project is [GNU-GPL](https://www.gnu.org/licenses/gpl-3.0.html) licensed.
 
 ***
